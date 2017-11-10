@@ -1,15 +1,15 @@
 # Job Searching Tips:
 
 # Code 
-	- new technologies - React/Redux, Python/Django, Node/Express
-	- projects 
-	- show them off (github and linkedin, facebook?)
-	- commit often on Github. Employeers often check that. 
+	- New technologies - React/Redux, Python/Django, Node/Express
+	- Tons of projects 
+	- Show them off (github and linkedin, facebook?)
+	- Commit often on Github. Employeers often check that. 
 
 # Network
-	- reach out to randos for coffee - same boot camp, college? people seem connected to that stuff.
-	- people you know, they know someone that knows someone.  
-	- networking events - at least good talks and free dinner (this one Google event I went to had three courses + open bar)
+	- Reach out to randos for coffee - same boot camp, college? people seem connected to that stuff.
+	- People you know, they know someone that knows someone.  
+	- Networking events - at least good talks and free dinner (this one Google event I went to had three courses + open bar)
 
 # Interview 
 	- Not ready? bullshit - my first onsite went absolutely horribly (I forgot how to open the rails console) 
