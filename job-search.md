@@ -2,9 +2,9 @@
 
 # Code 
 	- New technologies 
-		### [React/Redux]
-		### Python/Django - [great book], [tutorial]
-		### [Node/Express]
+		###React/Redux [tutorial](https://www.udemy.com/react-redux/learn/v4/overview)
+		###Python/Django - this is a [great book](https://learnpythonthehardway.org/) and this is a [tutorial](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview)
+		###Node/Express [tutorial](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
 	- Tons of projects. Great working with someone, preferabily someone that's better than you so you learn a ton, also keep each other accountable, push each other.
 	- Show them off (github and linkedin, facebook?)
 	- Commit often on Github. Employeers often check that. 
@@ -34,10 +34,8 @@
 	- Simpler, because you can almost copy paste the code from the other files. When I added some rspec tests to a rails app I basically copy/pasted tests from an existing one. 
 	- [Write/speak/code meetup] for open source, they help you get started. 
 
-	[React/Redux]: https://www.udemy.com/react-redux/learn/v4/overview
-	[great book]: https://learnpythonthehardway.org/
-	[tutorial]: https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
-	[Node/Express]: https://www.udemy.com/the-complete-nodejs-developer-course-2/
+	
+	
 	[Leetcode]: https://leetcode.com/
 	[Hackerrank]: https://www.hackerrank.com/
 	[Interviewcake]: https://www.interviewcake.com/
